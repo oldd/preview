@@ -116,6 +116,12 @@
             solver: 'forceAtlas2Based',
             timestep: 0.35,
             stabilization: {iterations: 150}
+        },    
+        groups: {
+          'entry': { color: 'green', mass: 100 },
+          'md': { color: 'blue', mass: 80 },
+          'we': { color: 'purple', mass: 20 },
+          'project': { color: 'red', mass: 1 }
         }
     };
 
