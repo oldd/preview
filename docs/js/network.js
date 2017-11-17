@@ -108,14 +108,14 @@
         physics: {
             forceAtlas2Based: {
                 gravitationalConstant: -26,
-                centralGravity: 0.005,
-                springLength: 230,
-                springConstant: 0.18
+                centralGravity: 1,
+                springLength: 530,
+                springConstant: 0.08
             },
-            maxVelocity: 146,
-            solver: 'forceAtlas2Based',
+            maxVelocity: 80,
+            solver: 'repulsion',
             timestep: 0.35,
-            stabilization: {iterations: 150}
+            stabilization: {iterations: 1500}
         },    
         groups: {
           'entry': { color: 'green', mass: 100 },
