@@ -4,7 +4,7 @@
 
     // create an array with nodes
     var nodes = new vis.DataSet([
-        {id: 00,    label: 'being a developer', 
+        {id: 00,    label: 'developering', 
                     title: 'devving is collaboration and communication',
                     url: 'https://github.com/jankeLearning/nodes/blob/master/sepco-projects-only/00-communications.md'}
     ]);
