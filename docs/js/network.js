@@ -6,7 +6,7 @@
     var nodes = new vis.DataSet([
         {id: 00,    label: 'developering', 
                     title: 'developering is collaboration and communication',
-                    group: 'md',
+                    group: 'entry',
                     url: 'https://github.com/jankeLearning/sample-lesson/blob/master/nodes/markdown/developering.md'},
         {id: 01,    label: 'friendly code', 
                     title: 'code is meant to be read, not written',
