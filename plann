@@ -1,8 +1,25 @@
+jl.gh.io
+    landing page style
+        template, markdown, ?
+    why, how, what
+    elium and elewa
+    teaser`
+/teaser
+    gitbook
+    - philosophy and student fit
+    - the sample
+        graph
+    - extra resources
+        clean coder, don't make me think, slack channel, wiki, ...
+    - about us
+        elewa
+        elium
+
+
+
+
+
 sample lesson
-    should be
-        in first 2 weeks
-        include 
-            soft skill: problem solving, learning-based, 
     cleancalc 0-2? or an 'ish
         specs
         test
@@ -11,41 +28,19 @@ sample lesson
         problem -> code domain
         make it a full WE-LO
         some OOP in JS
-    target audience
-        intermediate beginners
-        hackers looking for structure
     full repo
         lesson
         philosophy
         links to the E's
-    graph navigation
     self-assessment
         project
             criteria for project
         md's
             code-reading quizes
             open-ended quesitons
-    gh repo
-        https://github.com/tschaub/gh-pages
-        https://github.com/rafrex/spa-github-pages
-        embed markdown directly?
-            https://developer.github.com/v3/repos/contents/#get-contents
-            https://stackoverflow.com/questions/31875748/how-do-i-render-markdown-from-a-react-component
-            only at node level. node links open md's
-                depending on granularity
-                high granularity not very required
-        graph options: vis vs d3
-            * methinks vis, rendered in a single component.  try this before looking elsewhere
-            - https://uber.github.io/react-vis-force/?selectedKind=%3CInteractiveForceGraph%20%2F%3E&selectedStory=two%20nodes&full=0&down=1&left=1&panelRight=0&downPanel=kadirahq%2Fstorybook-addon-actions%2Factions-panel
-            - http://www.jeromecukier.net/blog/2016/08/09/visualization-with-react/
-            - https://github.com/crubier/react-graph-vis
-            - http://www.jeromecukier.net/blog/2016/08/09/d3-and-react-similarities-and-differences/
-            - https://stackoverflow.com/questions/39209460/which-library-to-use-to-draw-simple-graphs-nodes-links-in-react
 
 learning objectives
     logic/framework separation
     pure functions / testing
     oop in js - bags of functions and properties
     using specs
-
-http://rmurphey.com/blog/2009/10/15/using-objects-to-organize-your-code ?
