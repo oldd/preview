@@ -6,6 +6,8 @@
 	    <link href="style/my-network.css" rel="stylesheet" type="text/css"/>
 	</head>
 	<body>
+		<div>prep -> js-assessment until recursion</div>
+		<div>follow through the graph</div>
 		<div id="mynetwork"></div>
 		<script type="text/javascript" src="js/network.js"></script>
 	</body>
