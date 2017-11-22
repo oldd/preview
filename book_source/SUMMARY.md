@@ -1,7 +1,7 @@
 # Summary
 
 * [Welcome](./welcome.md)  
-* [Sample](./sample.html)  
+* [Sample](./sample.md)  
 * [Resources](./resources.md)  	
 * [JankeLearning](./about-us.md)  
 
