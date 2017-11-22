@@ -1,8 +1,8 @@
 # Summary
 
-* [Welcome](README.md)  
-* [The Teaser](pages/teaser.md) 
-* [Additional Resources](pages/support.md)  	
-* [About Us](pages/about-us.md) 
+* [Welcome](welcome.md)  
+* [sample](sample.html) 
+* [Resources](resources.md)  	
+* [About Us](about-us.md) 
 * [JankeLearning](https://jankelearning.github.io)
 
