@@ -2,5 +2,5 @@
 
 * [Sample](./sample.md)  
 * [Resources](./resources.md)  	
-* [JankeLearning](./about-us.md)  
+* [About Us](./about-us.md)  
 
