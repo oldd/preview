@@ -3,7 +3,7 @@
 var nodes = new vis.DataSet([
     {id: 00,    label: 'developering', title: 'developering is collaboration and communication',
                 group: 'entry',
-                url: 'https://github.com/jankeLearning/sample-lesson/blob/master/nodes/entry',
+                url: 'https://github.com/jankeLearning/preview/tree/master/nodes/entry',
                 level: 0, x: -550, y: 50 },
     {id: 01,    label: 'friendly code', title: 'code is meant to be read, not written \n -- in progress --',
                 group: 'md',
