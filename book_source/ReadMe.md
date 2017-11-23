@@ -1,6 +1,9 @@
 to include
 	something along the lines of all the copy below
 	core learning objectives
+		decomposing, understanding and planning a project
+		development as communication
+		clean software design
 	something about the embedded pedagogy
 	some light instructions and motivation
 
