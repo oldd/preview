@@ -2,6 +2,7 @@
 ---
 Hi there
 
+* [developering](./developering.md)
 * [learning things](./learning-things.md)
 * [how to use](./how-to.md)
 * [learning objectives](./learning-objectives)
