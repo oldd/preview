@@ -10,4 +10,4 @@ finished project has 3 audiences
 
 ---
 ---
-[<img src="https://github.com/jankeLearning/diagrams/blob/master/JL_clean.png" width="40" height="40" />  jankeLearning](https://jankelerning.github.io)
+### [<img src="https://github.com/jankeLearning/diagrams/blob/master/JL_clean.png" width="40" height="40" target="_blank" />  jankeLearning](https://jankelearning.github.io)
