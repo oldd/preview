@@ -1,5 +1,14 @@
-hi
-  
+to include
+	something along the lines of all the copy below
+	core learning objectives
+	something about the embedded pedagogy
+	some light instructions and motivation
+
+
+________________
+copy to use, perhaps. 
+________
+
 We believe at least 1/2 of developering has nothing to do with lines code.  It's thinking and studying skills, communication, collaboration, project planning and high-level understanding of application design.  
 These skills are central to any and all types of development - web, mobile, desktop - and translate easily between disciplines and languages. 
 It has also been our experience from teaching development that these skills can be learned at the same time, and sometimes before, students can solve difficult code-war style problems - the usual measure of developer ability.
@@ -11,7 +20,6 @@ We like to think of this curriculum as the glue between existing resources.
 
   
 Since these skills are relevant to all developers, we have the freedom to cover these skills in any programming language.  We chose JavaScript for it's ubiquity, accessibility and multi-paradigm support.
-
 
 We hope you enjoy our sample!
 
