@@ -1,3 +1,10 @@
+programming words
+development words
+compsci words
+computer words
+ct words
+jl specific vocab 
+
 [index](./readme.md)
 
 

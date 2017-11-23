@@ -1,3 +1,20 @@
+This lesson series assumes you have a basic understanding of:
+* js and code-war style programming
+* frontend tools and environment
+* terminal/editor/browser work-flow
+* git/hub basics
+
+If you can figure out how to download, run and pass this assessment you should be good to go:
+* https://github.com/rmurphey/js-assessment
+
+
+     
+
+
+
+
+
+
 [index](./readme.md)
 
 

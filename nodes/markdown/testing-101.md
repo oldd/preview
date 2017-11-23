@@ -326,3 +326,5 @@ ___
 * [Simplest Passing Functions](https://github.com/jankeLearning/content-code/tree/master/Week%2001/simplestPassingFuncs)  
 ___
 ## Self Assessment
+
+explain every line and every file of rmurphey's js-assessment

@@ -2,8 +2,8 @@ Hi there
 
 * [developering](./developering.md)
 * [learning things](./learning-things.md)
-* [how to use](./how-to.md)
 * [learning objectives](./learning-objectives)
+* [how to use](./how-to.md)
 * [pre-recs](./pre-recs.md)
 * [vocab list](vocab-list.md)
 
