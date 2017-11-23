@@ -7,6 +7,9 @@ to include
 	something about the embedded pedagogy
 	some light instructions and motivation
 
+4c/id two components pg 44
+	mental models
+	cognitive strategies
 
 ________________
 copy to use, perhaps. 
@@ -16,7 +19,8 @@ We believe at least 1/2 of developering has nothing to do with lines code.  It's
 These skills are central to any and all types of development - web, mobile, desktop - and translate easily between disciplines and languages. 
 It has also been our experience from teaching development that these skills can be learned at the same time, and sometimes before, students can solve difficult code-war style problems - the usual measure of developer ability.
   
-  
+programming can be thought of as strategizing, with the restriction that computers can carry out your strategy
+
 Given that the foundational skills of software development are cross-discipline, and that these skills can be built very early in a developer's learning process, we believe there should exist an open curriculum to teach these skills to beginner and intermediate developers alike.
 There are many outstanding free and open learning resources - but in our experience they focus on specific tools and techniques, language fundamentals, or getting your code from level 2 to level 5.  We provide links to our favorites in the 'support' section of this teaser.  
 We like to think of this curriculum as the glue between existing resources.
