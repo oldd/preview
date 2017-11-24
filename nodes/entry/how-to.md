@@ -1,3 +1,12 @@
+
+how to use
+	recommended to follow the lessons as indicated by the arrow
+	worked examples
+	self-assessment
+
+
+
+
 [index](./readme.md)
 
 
