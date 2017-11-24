@@ -1,3 +1,6 @@
+
+https://www.class-central.com/mooc/2161/coursera-learning-how-to-learn-powerful-mental-tools-to-help-you-master-tough-subjects
+
 first step to learning is admitting you don't know
 
 then attack the topic you want to learn critically
@@ -9,6 +12,8 @@ what do i know and how do i know it
 http://files.eric.ed.gov/fulltext/ED524842.pdf
 	criteria for are you learning good practices
 		the three audiences, are you helping them
+
+
 
 [index](./readme.md)
 

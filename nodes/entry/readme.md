@@ -9,7 +9,7 @@ In this course, it doesn't matter what your projects do or what frameworks they 
 There are certain things you should be familiar with before going on, including our recommendations for how to best follow this curriculum.
 
 * [developering](./developering.md)
-* [learning things](./learning-things.md)
+* [learning things](./learning-things)
 * [learning objectives](./learning-objectives)
 * [how to use](./how-to.md)
 * [pre-recs](./pre-recs.md)

@@ -6,7 +6,7 @@ Given this description, let's define the basic skills of a developer:
 * self-directed learning
 * creative problem solving
 
-only one of those has to do with programming directly!  This course is created to cover the other three skills primarily.
+only one of those has to do with programming directly!  This course is created to help you integrate those three skills into your programming.  
 
 
 We're here to help you 
