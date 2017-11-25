@@ -6,8 +6,8 @@
 	    <link href="style/my-network.css" rel="stylesheet" type="text/css"/>
 	</head>
 	<body>
-		<div>prep -> js-assessment until recursion</div>
-		<div>follow through the graph</div>
+		<div>This is a clickable graph for navigating our content.  Start on the green node at the left and choose your own path through the lessons.  We recommend only starting on a lesson after you've studied all the lessons pointing directly to it.</div>
+		<div>We are still actively developing these lessons. If you like what you see, stop by regularly to see what's new.</div>
 		<div id="mynetwork"></div>
 		<script type="text/javascript" src="js/network.js"></script>
 	</body>
