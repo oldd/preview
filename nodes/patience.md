@@ -7,4 +7,4 @@ Study [__THIS SITE__](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2Ns
 
 ---
 ---
-### [<img src="https://github.com/jankeLearning/diagrams/blob/master/JL_clean.png" width="40" height="40" target="_blank" />  jankeLearning](https://jankelearning.github.io)
+### [<img src="https://github.com/jankeLearning/diagrams/blob/master/JL_clean.png" width="40" height="40" target="_blank" />  jankeLearning](https://github.com/jankeLearning)
