@@ -1,3 +1,27 @@
+# Welcome to JankeLearning!
+
+* what's this all about
+  * software development is people collaborating to provide a solution to an end user's needs.
+  * code is an important tool along the way, but it can distract from the ultimate purpose
+  * we aim to teach development as a holistic, and very human, endeavor that incorporates programming but is not programming
+* what this covers
+  * general problem solving and learning skills
+  * understanding code as a text that needs to be read by 3 audiences
+  * tools and practices that enable collaborative programming
+* our approach
+  * software development is a prime example of an intrinsically complex task
+  * main challenges to address from a pedagogical side
+    * cognitive load
+    * skill transfer (procedural knowledge)
+    * metal models
+    * a term for being able to communicate your thoughts - dev audience and self
+  * we try to embed pedagogy from our personal experience and findings findings from research into this content
+  * The format is intentional.  The content is all hosted on github and is either markdown or code to study.  This will enable you to get constant expereince with the tools of the trade, automating the skills of termainl/editor/browser development and dealing nested file structures
+  * uses JS because of multi-paradigms and ubiquity
+  * stay tuned for a more thorough explanation of our methods including a list of annotated citations and guidelines for contribution.
+* Learn some stuff!
+
+
 to include
 	something along the lines of all the copy below
 	core learning objectives
@@ -10,6 +34,7 @@ to include
 4c/id two components pg 44
 	mental models
 	cognitive strategies
+
 
 ________________
 copy to use, perhaps. 
@@ -26,10 +51,6 @@ There are many outstanding free and open learning resources - but in our experie
 We like to think of this curriculum as the glue between existing resources.
 
   
-Since these skills are relevant to all developers, we have the freedom to cover these skills in any programming language.  We chose JavaScript for it's ubiquity, accessibility and multi-paradigm support.
-
-We hope you enjoy our sample!
-
 
 ___
 ___
