@@ -1,5 +1,7 @@
 # user stories
 
+https://www.google.be/search?client=safari&rls=en&dcr=0&ei=2OEaWsniDoTCwQKSu6PwDg&q=user+flow+diagram&oq=user+flow+diagram&gs_l=psy-ab.3..0l10.106364.108414.0.109698.17.17.0.0.0.0.141.1475.12j4.16.0..2..0...1.1.64.psy-ab..1.16.1474...46j0i131k1j0i46k1j0i67k1j0i10k1.0.LHRKfx5Khpc
+
 # Constriant-Based Problem Solving
 
 One of the most important skills you can learn to become a 10x developer is to write exactly and only the simplest code necessary to.  This skill is much harder to learn and much more rare than being able to write cool applications.

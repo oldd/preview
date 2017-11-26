@@ -29,7 +29,7 @@ var nodes = new vis.DataSet([
                 group: 'md',
                 color: { background: '#8c8c8c' }, notDone: true,
                 url: 'https://github.com/jankeLearning/preview/tree/master/nodes/patience.md',
-                // url: 'https://github.com/jankeLearning/sample-lesson/blob/master/nodes/markdown/understanding-problems.md',
+                // url: 'https://github.com/jankeLearning/sample-lesson/blob/master/nodes/markdown/planning-apps.md',
                 level: 1, x: -250, y: 100 },
     {id: 05,    label: 'pure functions', title: 'kind of like a factory \n -- in progress --',
                 group: 'md',
