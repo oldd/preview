@@ -1,5 +1,5 @@
 # Summary
 
-* [Sample content](./sample.md)  
+* [Preview](./sample.md)  
 * [About Us](./about-us.md)  
 
