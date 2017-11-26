@@ -31,6 +31,6 @@ Since these skills are relevant to all developers, we have the freedom to cover 
 We hope you enjoy our sample!
 
 
----
----
+___
+___
 ### [<img src="https://github.com/jankeLearning/diagrams/blob/master/JL_clean.png" width="40" height="40" target="_blank" />  jankeLearning](https://github.com/jankeLearning)

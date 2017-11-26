@@ -6,6 +6,7 @@ Instructional design was developed in partnership with [Elewa Education](http://
 JankeLearning content will be featured in Elium Academy's upcoming [Fullstack Bootcamp](http://elium.academy/fullstack).
 
 
----
----
+___
+___
+
 ### [<img src="https://github.com/jankeLearning/diagrams/blob/master/JL_clean.png" width="40" height="40" target="_blank" />  jankeLearning](https://github.com/jankeLearning)
