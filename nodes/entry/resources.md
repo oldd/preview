@@ -28,7 +28,8 @@ ________
 We show you how to use the stuff, not how it works.
 * fcc
 * https://www.khanacademy.org/computing/computer-programming/programming
-* http://marksheet.io
+* http://marksheet.io -  bonus section on the internet
+* headfirst javascript
 
 _________
 

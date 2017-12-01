@@ -8,6 +8,7 @@ If you can figure out how to download, run and pass this assessment you should b
 * https://github.com/rmurphey/js-assessment
 
 
+* https://learntocodewith.me/getting-started/#intro
      
 
 

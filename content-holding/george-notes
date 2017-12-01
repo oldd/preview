@@ -1,0 +1,117 @@
+videos
+	for each worked example and project
+	definitely for the precourse
+	make list of faq's
+	video riens codealongs?
+
+prettier markdown
+	markdown to powerpoint?
+	other ways to unify markdowns?
+
+less pure browser by hand
+	
+
+more node/dev stuff
+	fit in earlier and thorougher
+	first as build environment for front-end only?
+		intro to modules, cool ones
+		workflow practice - with auto-build tools
+
+projects
+	ditch battleship
+	keep cleancalc and tictactoe
+	more buildy projects like youtube
+	on project per
+		npm
+		modules
+		building
+		...
+	a bigger end-of-course project
+		with solutions
+		a project assignment 
+		a target - for legitimacy
+		resume stuffer
+		us for focus as we build content
+		to be done in groups
+
+first three/4 weeks
+	js/css
+	build stuff pretty and fast
+	static react components, + styling
+
+js/adv-js 
+	same exercise - both ways
+	ie. 'this' in es6 vs es5 function
+	scope/context - physical props
+
+students as ambassadors 
+	make them meet certain standards
+		- to qualify as 'certified'
+		final project
+		github cv/portfolio
+
+
+
+curriculum design considerations
+	maximize
+		skill transfer
+		exposure to realistic workflow
+		our personal workflow - maintenance, development.  eventually, contributors?
+		self-studyability
+		opportunities for peer interaction - grading, projects, ...
+		process-oriented objectives
+		"check points" - accountability
+			friendly competition - reward-wise
+			in teams, succeeding together is better
+			milestone due dates
+		assessment - 
+			(peer, self) as much for "reflective practitionership" as anything
+			us (formative/diagnostic) - to direct for further study
+			us (assessive) - final project, portfolios
+			sololearn into google forms - for grouping students too
+		physicalize it - print out check sheets for projects/weeks/conceptual
+			part of accountability and self-assessment
+			on-hand printout
+				asking questions, studying, js basics, vocab, ...
+				1-1 for first phase, a couple for second phase, none for later phases
+		gamification/interaction
+	minimize
+		extraneous cognitive load
+			printout lists
+		student uncertainty - in conceptual direction or learning objectives
+			- if they're confused, it should be because the concept is hard
+		points of access for students
+		results-oriented objectives
+	things for us to consider
+		cognitive load
+		reflective practitioner
+		threshold concepts - be aware of them, make them clear to students, assess at these points
+		notional machines - see "threshold concepts"
+			physical things exercises 
+			assessments at these points
+		supporting resources - quantity, quality, proximity, role
+		4c/id - seems to encompass all the above
+			a blueprint for us to follow, a consistent format for students
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,276 @@
+from reading on writing sales copy
+	- call to action
+		what i'm asking of them is worth more than what they're parting with
+		- study our curriculum on your own time
+			cost: extra effort, something experimental
+			reward: better learning
+		- to keep reading -  continual, implied call to action
+			cost: time and caring
+			reward: fun to read, closer to reaching life goal, almost convinced we're good deal
+		- to book interview meeting
+			cost: time, effort
+			reward: might get in for the course
+		- to pay
+			cost: 5600 + 3 months of life
+			reward: empowerment, community, network, skillz galore
+	- benefits
+		a missed topic in the materials
+		embedded good practices
+	- features
+		a missed topic in the materials
+		immersive practice with real dev-tools 
+		inspired by how people learn - skill transfer, not ease of passage
+	- target persona
+		coming directly to gitbook from elium.academy
+		shopping for a future, for hope
+		commitment shopping - may be willing to read more
+	- where in JL/Elium/Elewa websites to have which types of copy, how much detail, ...
+	- "Our goal isn’t to convince our audience that we’re smart — it’s educating and selling with our copy."
+		from copyblogger
+		a tendancy i have
+		see also kissmetric "how to".4
+	- writing style
+		rhythm
+		short, broken sentences
+		focus more on client than product - save that for the white paper
+		dual readership - https://www.digitalmarketer.com/increase-sales-letter-conversions/
+			write 3 documents that take up the same space
+				a title
+				a skimmer
+				a reader
+		length/commitment match
+	- sections
+		assuming current structure
+			intro
+				audience alignment
+				fit in with 'competitors'?
+				short, short.  short
+				feature/problem match? - or just problem match
+			what's about
+				fit a story here?
+				skills feature/problem pairs
+			our approach
+				story?
+					about idea for this curriculum
+					key moments in it's past
+					testing with students
+				see kissmetric "how to".4
+				keep this story-based and emotive, save the other stuff for whitepaper
+				feature/problem match?
+					approach based feature/problem pairs
+				overcome objections here?
+			get started already
+		a new structure
+	- jl lp changes
+		make next section appear just a bit below current one?
+		text/diagram split?
+	- elium.academy/fullstack
+		explain why not - https://blog.kissmetrics.com/6-copywriting-mistakes/
+
+
+dos ---------------------------
+
+	hubspot 7 steps - https://blog.hubspot.com/marketing/bob-stones-gem-copywriting-formula
+		1. begin with your strongest benefit
+		2. expand on the most important benefit
+		3. explain exactly (and in detail) what the prospect will get
+		4. back up your statement(s) with proof
+		5. tell them why they'll loose if they don't act
+		6. sum up the most important benefits
+		7. present your call to action
+
+	copyblogger types of copy - https://www.copyblogger.com/good-copywriting/
+		01. plain copy
+		02. storytelling copy
+			* Opening: Introduce the pain. Show how the character of the story had a normal life, then how that life was shattered by a change of events.
+			* Conflict: How is the life of the main character threatened if he or she does not respond to the problem? What does her journey look like as she tackles this challenge?
+			* Dialogue: People are drawn to conversations in a story. It’s human interest at its root: two people talking to each other. We are also drawn to dialogue because it’s easy to read. “Our eyes flow over dialogue like butter on the hood of a hot car,” says novelist Chuck Wendig.
+			* Solution: Finally, your product is introduced as the cure for your character’s problem. You increase the credibility of your product by sharing specific results (347% increase in conversion, for example).
+			* use dialogue
+		03. conversational copy
+			"you and me"
+			record and transcribe for rough draft
+		04. john lennon copy
+			get them to imagine a beautiful life
+			then say how you can get them there
+		05. long copy
+			all the details
+			how can be broken into snippets? hybridize across pages?
+		06. killer poet copy
+			the ad itself is a work worth reading
+		07. direct-from-ceo copy
+			level field, personalize the company
+			i can do this
+			pairs well with storytelling and conversational
+		08. frank copy
+			gain trust by disclosing weaknesses first
+			- experimental content
+			- a few people making a best effort
+			- this mini-course will take more work
+		09. superlative copy
+			not for me
+		10. rejection copy
+			not for this
+
+	kissmetric 
+		7 tips - https://blog.kissmetrics.com/david-ogilvy/
+			1. go big or go home
+			2. do your homework
+				You cannot write copy unless you know:
+					Who you’re writing it for
+					How that person thinks
+					What that person needs
+			3. never talk down to customer
+			4. headline is 80%
+				https://www.copyblogger.com/10-sure-fire-headline-formulas-that-work/
+				here, this also means table of contents
+			5. don't get distracted from making the sale
+			6. explain why they should buy
+				a la golden circle
+				imagine their head as being full of 'why's
+				answer them
+			7. your copy is important. treat it that way
+		how to write seductive copy - https://blog.kissmetrics.com/write-copy-like-apple/
+			- actionable tips for each point
+			01. command attention with one big idea
+				learn the soft skills in context (?)
+				again with the headline
+			02. promote readability with short and broken sentences
+				fight my penchants
+				save that for the white paper
+				RHYTHM
+				try to keep your copy below 12 words per sentence on average.
+			03. become memorable with soundbites
+				something i can put on all sites, that someone might quote on SO
+				often have repetition
+		*	04. enhance your credibility with technical details
+				balance between this and 'sounding smart'
+				to tell 'why' and/or 'how'
+				trust, being an expert
+				- What details can you use to showcase your manufacturing process and the quality of your product? Include figures. And be as specific as possible.
+				- to become the 'our approach section'
+		*	05. fascinate audience with stories
+				what if there was a story fit in, and the whole thing wasn't one
+			06. persuade with problems
+				line up features with problems
+			07. use analogies to describe product quality
+				to make quality concrete
+			08. overcome objectives 1 by 1
+			09. encourage trading up with product comparisons
+				you like this stuff - content, slack
+				pay us for the class
+			10. captivate your audience with power words
+				focus on audience, not product
+				first-person user stories with strong sensory component
+				use word 'imagine'
+			11. create a persuasive call to action
+				Encourage your readers to follow your call-to-action. Explain how they’ll benefit. And make your call-to-action stand out.
+			12. design for readability
+				study this https://www.apple.com/iphone/
+
+	enchanting marketing 
+		faux-pas  - https://www.enchantingmarketing.com/website-mistakes/
+			1. unsuitable tracks
+				'segments', prepare for multiple
+				separate surfaces - jl landing, jl org, jl sample, elewa, elium, ...
+					tailor them and place them carefully
+			2. no through-traffic
+				well marked, intuitive paths to different contents
+			3. unclear signage
+			4. a website isn't just a collection of pages
+				each one should have a purpose
+				they should interconnect in desirable and intuitive ways
+	*	how to write persuasive sales copy 	*  read in more depth
+			1. engaging, credible, clear, concise, persuasive
+			2. list of articles
+			3. ...
+
+don'ts  ----------------
+
+	digitalmarketer cosmetic errors - https://www.digitalmarketer.com/copy-cosmetics-conversion/
+		1. price and value flash impressions
+			ie. 100 or 100.00
+		2. emphasizing a single word
+			appeal to both skimmers and readers
+			dual readership path - https://www.digitalmarketer.com/increase-sales-letter-conversions/
+			i do this in jl landing page
+		3. over-doing it
+		4. misplacing testamonials
+			schools: floating along side, embedded into
+			-- don't interrupt copy flow --
+			off to the side (if not a landing page with sections)
+			place near where copy speaks of what they praise
+		5. bullet abuse
+
+	nettsolutions  - http://www.nettsolutions.com/blog/2011/11/ad-copy-faux-pas/
+		- not the most coherent/esive.  check back on it later
+		1. unsubstantiated ad promotions
+		2. keyword scope mismatch
+			keywords be as specific as the offer
+			and appropriate
+		3. lists
+		4. unkown branding
+		5. vague offering
+		6. unnecessary info
+		7. generic templates
+
+	kissmetric copy mistakes - https://blog.kissmetrics.com/6-copywriting-mistakes/
+		1. failing to test long copy
+			takeaway: long/short depends on buyer type and commitment
+			when in doubt, test it (but i can't really, so just ask around)
+			"Get to the point; be prudent with each word; but test long copy, and sometimes it’ll convert much better. This is especially true when the idea is complex or the commitment is large." 
+		2. don't let structure strangle copy
+			committed to gitbook - content
+			committed to standard landing page - jl
+		3. assuming mathematical literacy
+		4. thinking you're like twitter or facebook
+			don't try to be like them, they are the reason 'like them' is a thing.
+			their copy assumes familiarity with their product
+		5. neglecting the most persuasive conjunction
+			"because"
+		6. forgetting to flip positives into negatives
+
+
+
+	an opinionated summary, good - https://www.crazyegg.com/blog/tantalizing-copywriting-techniques/
+
+	meh - digitalmarketer 5 steps - https://www.digitalmarketer.com/how-to-write-sales-copy/
+		1. Point out who your message is for
+		2. Identify their problem
+		3. Talk about why what they’re currently doing to solve their problem won’t work
+			this is where i say other things are great, but don't do this
+		4. Tell them how you discovered what DOES work
+		5. Tell them how they can get it
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
