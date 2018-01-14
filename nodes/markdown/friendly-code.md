@@ -1,8 +1,6 @@
 # Writing Readable Code
 Developers spend SO MUCH more time reading code than writing it.  This is true even with your own code.  As a favor to yourself and whoever will need to use, maintain or develop your code, please learn to write readable code. 
 
-But what about documentation, Evan?  Good question other Evan.  
-
 Documentation does not remove the need for readable code.  Documentation is for users with no interest in reading source code; readable code is for developers who want to study, modify, fix, update, or in anyother way work with your codebase. (Including your futur self.  Love yourself.)  
  
 There are many different opinions on what constitutes great JavaScript code.  The most important thing is just that you're consistent.  The war between coders that use tabs and coders that use spaces to indent their code is so engrained that [it's essentially a joke by now](https://www.youtube.com/watch?v=SsoOG6ZeyUI), but it doesn't _really_ matter as long as you're consistent.
